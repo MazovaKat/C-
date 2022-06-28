@@ -2,11 +2,11 @@
 {
     if (day<6)
         {
-            Console.WriteLine ("Сегодня рабочий день");
+            Console.WriteLine ("Все плохо, иди на работу, если ты офисный тусер");
         }
        else 
         {
-            Console.WriteLine ("Сегодня выходной");
+            Console.WriteLine ("Пока выходной, но скоро все равно на работу");
         }
 }
 
